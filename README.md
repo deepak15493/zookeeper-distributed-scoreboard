@@ -1,4 +1,4 @@
-# dic-hw1
+# zookeeper-distributed-scoreboard
 
 ## Description of Files
 Player.jar file contains code for player.
